@@ -1,3 +1,5 @@
+![League of Clicky](https://i.ibb.co/zSF668g/Untitled.png)
+
 ## Overview
 
 This application allows user to achieve higher score, also known as gold, by clicking on images presented as cards. While the user clicks on the images, the images shuffle by changing their position. The user must click each image only once to guess and achieve one point to their score and if an image was clicked twice, the game resets.
