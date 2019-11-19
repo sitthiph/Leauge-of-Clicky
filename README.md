@@ -2,7 +2,7 @@
 
 # League of Clicky
 
-Play this game [here](https://leaugeofclicky.herokuapp.com/). 
+Play this game [here](https://leagueofclicky.herokuapp.com/). 
 
 ## Overview
 
@@ -20,7 +20,7 @@ The goal of this application is to use the create-react-app project as a starter
 
 ### Demo
 	
-Clicky Game is deployed on Heroku. Please check it out [here](https://leaugeofclicky.herokuapp.com/).
+Clicky Game is deployed on Heroku. Please check it out [here](https://leagueofclicky.herokuapp.com/).
 
 
 ### Install
