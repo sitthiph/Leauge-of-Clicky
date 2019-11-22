@@ -1,4 +1,4 @@
-![League of Clicky](https://i.ibb.co/zSF668g/Untitled.png)
+![League of Clicky](https://ibb.co/PZzsqSW)
 
 # League of Clicky
 
