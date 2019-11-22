@@ -3,7 +3,7 @@ import React from "react";
 function Jumbotron() {
   return (
     <div className="jumbotron jumbotron-fluid mb-0">
-      <h1 className="display-4 font-weight-bolder text-center">Welcome to the Leauge of Clicky</h1>
+      <h1 className="display-4 font-weight-bolder text-center">Welcome to the League of Clicky</h1>
         <p className="lead text-center">
             Clicky Game based on League of Legend
         </p>
