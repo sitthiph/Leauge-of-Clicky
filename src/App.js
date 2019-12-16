@@ -52,11 +52,11 @@ class App extends Component {
           />
           <Jumbotron />
     <Wrapper>
-          {this.state.Images.map(beverage => (
+          {this.state.Images.map(champion => (
               <GeneralCard
                   imageEvent={this.imageEvent}
-                  id={beverage.id}
-                  image={beverage.image}
+                  id={champion.id}
+                  image={champion.image}
               />
           ))}
         </Wrapper>
